@@ -1,0 +1,13 @@
+<script> 
+  
+    // Taking some strings 
+    var x = 'javascript'; 
+    var y = 'js'; 
+    var z = ''; 
+  
+    // Returning the length of the string. 
+    document.write(x.length + "<br>"); 
+    document.write(y.length + "<br>"); 
+    document.write(z.length); 
+  
+</script> 
